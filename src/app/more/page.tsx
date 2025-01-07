@@ -25,32 +25,32 @@ const morePage = () => {
       title: "Hashnode",
       description:
         "I write blogs on web development, trending tech stacks or javascript guide or tips in Hashnode",
-      link: "https://mdtaquiimam.hashnode.dev/",
+      link: "https://mdMolhem molhem.hashnode.dev/",
     },
     {
       title: "Medium",
       description:
         "I write blogs on web development, trending tech stacks or javascript guide or tips in Medium",
-      link: "https://medium.com/@mdtaqui.jhar",
+      link: "https://medium.com/@mdMolhem.jhar",
     },
 
     {
       title: "Daily.Dev",
       description:
         "I am also the member of Daily Dev squads and i also upload post on some squads.",
-      link: "https://app.daily.dev/taqui_786",
+      link: "https://app.daily.dev/Molhem_786",
     },
     {
       title: "Gumroad",
       description:
         "I also sell digital products on gumroad like Notion Templates and web projects etc..",
-      link: "https://mdtaquijhar.gumroad.com/",
+      link: "https://mdMolhemjhar.gumroad.com/",
     },
     {
       title: "Buy Me a coffee",
       description:
         "Your support goes a long way in helping me maintain the quality of content, explore new topics, and dedicate more time to creating valuable projects.",
-      link: "https://www.buymeacoffee.com/taquidevloper",
+      link: "https://www.buymeacoffee.com/Molhemdevloper",
     },
   ];
 

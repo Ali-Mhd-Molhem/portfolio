@@ -21,14 +21,14 @@ to connect, collaborate, and code together. Join the conversation and level up y
       description:
         "itZmyLink is a simple platform where user can create a personalized page to showcase all your social media profiles in one place. ",
       tags: ["Nextjs", "Typescript", "Shadcn Ui"],
-      link: "https://github.com/taqui-786/itZmyLink",
+      link: "https://github.com/Molhem-786/itZmyLink",
     },
     {
       title: "GitEstimate- Github estimate worth generator",
       description:
         "GitEstimate is a simple fun tool where user can generate their github estimate worth card just by entering their github username. ",
       tags: ["Nextjs", "Typescript", "Shadcn Ui"],
-      link: "https://github.com/taqui-786/GitEstimate",
+      link: "https://github.com/Molhem-786/GitEstimate",
     },
     {
       title: "Mixcn-ui- Reusable components for Nextjs",
@@ -64,28 +64,28 @@ to connect, collaborate, and code together. Join the conversation and level up y
       description:
         "FriendZ is a social media app made with modern tech stacks such as redis, Authjs etc. A user can Create, delete, like, comment Post. ",
       tags: ["Redis", "Authjs", "Typescript", "Nextjs"],
-      link: "https://github.com/taqui-786/project-friendz",
+      link: "https://github.com/Molhem-786/project-friendz",
     },
     {
       title: "ChatApp- Simple instagram clone",
       description:
         "ChatApp is similar to instagram, you can create, edit, delete, like,comment, post and  Follow, unfollow users",
       tags: ["Reactjs", "Javascript"],
-      link: "https://github.com/taqui-786/chatapp-api",
+      link: "https://github.com/Molhem-786/chatapp-api",
     },
     {
       title: "Devletter - A Newsletter for devs",
       description:
         "Devletter ia a newsletter subscribing single page app made with Nextjs and Tailwindcss.",
       tags: ["Nextjs", "Tailwindcss"],
-      link: "https://github.com/taqui-786/Devletter",
+      link: "https://github.com/Molhem-786/Devletter",
     },
     {
       title: "CrouMaker - A Crousal Maker App",
       description:
         "Crousal Maker is a tool with in-built crousals templates edit and download it in any format.",
       tags: ["Nextjs", "jsPDF", "html2canvas", "Shadcn Ui"],
-      link: "https://github.com/taqui-786/crousal-maker",
+      link: "https://github.com/Molhem-786/crousal-maker",
     },
   ];
 
