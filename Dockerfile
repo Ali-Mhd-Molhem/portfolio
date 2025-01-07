@@ -5,19 +5,19 @@ FROM node:18-alpine
 WORKDIR /app
 
 # Copy package.json and package-lock.json to the container
-COPY package.json package-lock.json ./
+COPY package.json package-lock.json
 
 # Install dependencies
-RUN npm install
+RUN yarn
 
 # Copy the rest of the application code
 COPY . .
 
 # Build the Next.js application
-RUN npm run build
+RUN yarn run build
 
 # Expose the port Next.js runs on
 EXPOSE 3008
 
 # Start the application
-CMD ["npm", "start"]
+CMD ["yarn", "start"]
